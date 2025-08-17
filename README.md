@@ -1,6 +1,6 @@
 # MCP Server
 
-A Spring Boot-based Math Calculation Protocol (MCP) server that exposes mathematical operations as HTTP endpoints and provides a tool discovery API.
+A Spring Boot-based Math Calculation - Model context protocol (MCP) server that exposes mathematical operations as HTTP endpoints and provides a tool discovery API.
 
 ## Features
 - Exposes math operations (add, multiply, divide) as REST endpoints
